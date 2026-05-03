@@ -1,0 +1,1 @@
+An interactive web application built with Three.js to apply and test various texture maps (Texture, Bump, Opacity, Normal, Displacement, Specular) on 3D objects. Supports custom OBJ uploads and dynamic lighting adjustments.active link: https://kai9987kai.co.uk/texturemaptester.html
